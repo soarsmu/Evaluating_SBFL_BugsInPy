@@ -1,0 +1,3962 @@
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 37
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 57
+Op2_exam num: 0.102679
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 57
+Dstar_exam num: 0.102679
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 38
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 57
+Op2_exam num: 0.102679
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 57
+Dstar_exam num: 0.102679
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 66
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 63
+Tarantula_exam num: 0.112500
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 26
+Op2_exam num: 0.046429
+Barinel_rank num: 63
+Barinel_exam num: 0.112500
+Dstar_rank num: 26
+Dstar_exam num: 0.046429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 68
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 63
+Tarantula_exam num: 0.112500
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 26
+Op2_exam num: 0.046429
+Barinel_rank num: 63
+Barinel_exam num: 0.112500
+Dstar_rank num: 26
+Dstar_exam num: 0.046429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 40
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 55
+Tarantula_exam num: 0.098214
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 19
+Op2_exam num: 0.033929
+Barinel_rank num: 55
+Barinel_exam num: 0.098214
+Dstar_rank num: 19
+Dstar_exam num: 0.033929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 41
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 55
+Tarantula_exam num: 0.098214
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 19
+Op2_exam num: 0.033929
+Barinel_rank num: 55
+Barinel_exam num: 0.098214
+Dstar_rank num: 19
+Dstar_exam num: 0.033929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 42
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 55
+Tarantula_exam num: 0.098214
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 19
+Op2_exam num: 0.033929
+Barinel_rank num: 55
+Barinel_exam num: 0.098214
+Dstar_rank num: 19
+Dstar_exam num: 0.033929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 43
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 55
+Tarantula_exam num: 0.098214
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 19
+Op2_exam num: 0.033929
+Barinel_rank num: 55
+Barinel_exam num: 0.098214
+Dstar_rank num: 19
+Dstar_exam num: 0.033929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 48
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 55
+Tarantula_exam num: 0.098214
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 19
+Op2_exam num: 0.033929
+Barinel_rank num: 55
+Barinel_exam num: 0.098214
+Dstar_rank num: 19
+Dstar_exam num: 0.033929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 44
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 55
+Tarantula_exam num: 0.098214
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 19
+Op2_exam num: 0.033929
+Barinel_rank num: 55
+Barinel_exam num: 0.098214
+Dstar_rank num: 19
+Dstar_exam num: 0.033929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 45
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 55
+Tarantula_exam num: 0.098214
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 19
+Op2_exam num: 0.033929
+Barinel_rank num: 55
+Barinel_exam num: 0.098214
+Dstar_rank num: 19
+Dstar_exam num: 0.033929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 46
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 47
+Tarantula_exam num: 0.083929
+Ochiai_rank num: 32
+Ochiai_exam num: 0.057143
+Op2_rank num: 11
+Op2_exam num: 0.019643
+Barinel_rank num: 47
+Barinel_exam num: 0.083929
+Dstar_rank num: 11
+Dstar_exam num: 0.019643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 54
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 47
+Tarantula_exam num: 0.083929
+Ochiai_rank num: 32
+Ochiai_exam num: 0.057143
+Op2_rank num: 11
+Op2_exam num: 0.019643
+Barinel_rank num: 47
+Barinel_exam num: 0.083929
+Dstar_rank num: 11
+Dstar_exam num: 0.019643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 55
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 47
+Tarantula_exam num: 0.083929
+Ochiai_rank num: 32
+Ochiai_exam num: 0.057143
+Op2_rank num: 11
+Op2_exam num: 0.019643
+Barinel_rank num: 47
+Barinel_exam num: 0.083929
+Dstar_rank num: 11
+Dstar_exam num: 0.019643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 56
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 47
+Tarantula_exam num: 0.083929
+Ochiai_rank num: 32
+Ochiai_exam num: 0.057143
+Op2_rank num: 11
+Op2_exam num: 0.019643
+Barinel_rank num: 47
+Barinel_exam num: 0.083929
+Dstar_rank num: 11
+Dstar_exam num: 0.019643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 57
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 47
+Tarantula_exam num: 0.083929
+Ochiai_rank num: 32
+Ochiai_exam num: 0.057143
+Op2_rank num: 11
+Op2_exam num: 0.019643
+Barinel_rank num: 47
+Barinel_exam num: 0.083929
+Dstar_rank num: 11
+Dstar_exam num: 0.019643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 60
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 47
+Tarantula_exam num: 0.083929
+Ochiai_rank num: 32
+Ochiai_exam num: 0.057143
+Op2_rank num: 11
+Op2_exam num: 0.019643
+Barinel_rank num: 47
+Barinel_exam num: 0.083929
+Dstar_rank num: 11
+Dstar_exam num: 0.019643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 61
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 47
+Tarantula_exam num: 0.083929
+Ochiai_rank num: 32
+Ochiai_exam num: 0.057143
+Op2_rank num: 11
+Op2_exam num: 0.019643
+Barinel_rank num: 47
+Barinel_exam num: 0.083929
+Dstar_rank num: 11
+Dstar_exam num: 0.019643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 63
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 47
+Tarantula_exam num: 0.083929
+Ochiai_rank num: 32
+Ochiai_exam num: 0.057143
+Op2_rank num: 11
+Op2_exam num: 0.019643
+Barinel_rank num: 47
+Barinel_exam num: 0.083929
+Dstar_rank num: 11
+Dstar_exam num: 0.019643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 62
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 47
+Tarantula_exam num: 0.083929
+Ochiai_rank num: 32
+Ochiai_exam num: 0.057143
+Op2_rank num: 11
+Op2_exam num: 0.019643
+Barinel_rank num: 47
+Barinel_exam num: 0.083929
+Dstar_rank num: 11
+Dstar_exam num: 0.019643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 69
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 24
+Tarantula_exam num: 0.042857
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 52
+Op2_exam num: 0.092857
+Barinel_rank num: 24
+Barinel_exam num: 0.042857
+Dstar_rank num: 52
+Dstar_exam num: 0.092857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 70
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 63
+Tarantula_exam num: 0.112500
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 26
+Op2_exam num: 0.046429
+Barinel_rank num: 63
+Barinel_exam num: 0.112500
+Dstar_rank num: 26
+Dstar_exam num: 0.046429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 71
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 24
+Tarantula_exam num: 0.042857
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 52
+Op2_exam num: 0.092857
+Barinel_rank num: 24
+Barinel_exam num: 0.042857
+Dstar_rank num: 52
+Dstar_exam num: 0.092857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 72
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 63
+Tarantula_exam num: 0.112500
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 26
+Op2_exam num: 0.046429
+Barinel_rank num: 63
+Barinel_exam num: 0.112500
+Dstar_rank num: 26
+Dstar_exam num: 0.046429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 73
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 24
+Tarantula_exam num: 0.042857
+Ochiai_rank num: 41
+Ochiai_exam num: 0.074107
+Op2_rank num: 52
+Op2_exam num: 0.092857
+Barinel_rank num: 24
+Barinel_exam num: 0.042857
+Dstar_rank num: 52
+Dstar_exam num: 0.092857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 74
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 63
+Tarantula_exam num: 0.112500
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 26
+Op2_exam num: 0.046429
+Barinel_rank num: 63
+Barinel_exam num: 0.112500
+Dstar_rank num: 26
+Dstar_exam num: 0.046429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 75
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 37
+Tarantula_exam num: 0.066071
+Ochiai_rank num: 26
+Ochiai_exam num: 0.046429
+Op2_rank num: 5
+Op2_exam num: 0.008929
+Barinel_rank num: 37
+Barinel_exam num: 0.066071
+Dstar_rank num: 5
+Dstar_exam num: 0.008929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 103
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 60
+Tarantula_exam num: 0.107143
+Ochiai_rank num: 47
+Ochiai_exam num: 0.083929
+Op2_rank num: 23
+Op2_exam num: 0.041071
+Barinel_rank num: 60
+Barinel_exam num: 0.107143
+Dstar_rank num: 23
+Dstar_exam num: 0.041071
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 76
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 37
+Tarantula_exam num: 0.066071
+Ochiai_rank num: 26
+Ochiai_exam num: 0.046429
+Op2_rank num: 5
+Op2_exam num: 0.008929
+Barinel_rank num: 37
+Barinel_exam num: 0.066071
+Dstar_rank num: 5
+Dstar_exam num: 0.008929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 77
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 37
+Tarantula_exam num: 0.066071
+Ochiai_rank num: 26
+Ochiai_exam num: 0.046429
+Op2_rank num: 5
+Op2_exam num: 0.008929
+Barinel_rank num: 37
+Barinel_exam num: 0.066071
+Dstar_rank num: 5
+Dstar_exam num: 0.008929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 79
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 59
+Tarantula_exam num: 0.105357
+Ochiai_rank num: 66
+Ochiai_exam num: 0.117857
+Op2_rank num: 66
+Op2_exam num: 0.117857
+Barinel_rank num: 59
+Barinel_exam num: 0.105357
+Dstar_rank num: 66
+Dstar_exam num: 0.117857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 98
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 23
+Ochiai_exam num: 0.041964
+Op2_rank num: 2
+Op2_exam num: 0.004464
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 2
+Dstar_exam num: 0.004464
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 88
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 40
+Tarantula_exam num: 0.072321
+Ochiai_rank num: 62
+Ochiai_exam num: 0.111607
+Op2_rank num: 63
+Op2_exam num: 0.113393
+Barinel_rank num: 40
+Barinel_exam num: 0.072321
+Dstar_rank num: 63
+Dstar_exam num: 0.113393
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 89
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 40
+Tarantula_exam num: 0.072321
+Ochiai_rank num: 62
+Ochiai_exam num: 0.111607
+Op2_rank num: 63
+Op2_exam num: 0.113393
+Barinel_rank num: 40
+Barinel_exam num: 0.072321
+Dstar_rank num: 63
+Dstar_exam num: 0.113393
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 94
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 40
+Tarantula_exam num: 0.072321
+Ochiai_rank num: 62
+Ochiai_exam num: 0.111607
+Op2_rank num: 63
+Op2_exam num: 0.113393
+Barinel_rank num: 40
+Barinel_exam num: 0.072321
+Dstar_rank num: 63
+Dstar_exam num: 0.113393
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 101
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 23
+Ochiai_exam num: 0.041964
+Op2_rank num: 2
+Op2_exam num: 0.004464
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 2
+Dstar_exam num: 0.004464
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 78
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 40
+Tarantula_exam num: 0.072321
+Ochiai_rank num: 62
+Ochiai_exam num: 0.111607
+Op2_rank num: 63
+Op2_exam num: 0.113393
+Barinel_rank num: 40
+Barinel_exam num: 0.072321
+Dstar_rank num: 63
+Dstar_exam num: 0.113393
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 123
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 124
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 118
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 119
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 112
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 113
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 114
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 115
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 116
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 120
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 80
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 244
+Op2_exam num: 0.436607
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 81
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 244
+Op2_exam num: 0.436607
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 85
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 242
+Op2_exam num: 0.433036
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 87
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 242
+Op2_exam num: 0.433036
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 50
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 51
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 90
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 91
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 82
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 83
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/cli.py
+Line: 84
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 46
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 57
+Op2_exam num: 0.102679
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 57
+Dstar_exam num: 0.102679
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 47
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 57
+Op2_exam num: 0.102679
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 57
+Dstar_exam num: 0.102679
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 48
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 57
+Op2_exam num: 0.102679
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 57
+Dstar_exam num: 0.102679
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 49
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 57
+Op2_exam num: 0.102679
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 57
+Dstar_exam num: 0.102679
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 50
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 57
+Op2_exam num: 0.102679
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 57
+Dstar_exam num: 0.102679
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 51
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 30
+Tarantula_exam num: 0.054464
+Ochiai_rank num: 54
+Ochiai_exam num: 0.096429
+Op2_rank num: 57
+Op2_exam num: 0.102679
+Barinel_rank num: 30
+Barinel_exam num: 0.054464
+Dstar_rank num: 57
+Dstar_exam num: 0.102679
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 79
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 80
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 81
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 83
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 84
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 19
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 21
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 20
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 24
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 22
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 25
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 26
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 117
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 118
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 60
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 61
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 63
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 70
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 64
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 66
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 68
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 71
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 74
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 72
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 75
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 77
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 58
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 54
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 55
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 56
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 57
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 87
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 88
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 89
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 98
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 90
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 91
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 92
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 93
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 94
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 95
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 96
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 99
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 102
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 100
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 103
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 109
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 104
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 105
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 106
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 107
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 129
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 130
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 27
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 131
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 114
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 115
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 133
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 134
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 135
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 136
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 121
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 122
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 123
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 124
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 125
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 126
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 127
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 150
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 151
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 152
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 154
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 155
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 156
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 142
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 143
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 144
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 146
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 147
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 148
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 161
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 162
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 163
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 164
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 165
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 167
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 168
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 169
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 170
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 175
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 176
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 177
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 178
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 179
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 181
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 182
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 183
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 184
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/tests/tests.py
+Line: 185
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 153
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 65
+Ochiai_exam num: 0.116071
+Op2_rank num: 29
+Op2_exam num: 0.051786
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 29
+Dstar_exam num: 0.051786
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 85
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 91
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 93
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 94
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 95
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 99
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 96
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 67
+Tarantula_exam num: 0.120536
+Ochiai_rank num: 68
+Ochiai_exam num: 0.122321
+Op2_rank num: 68
+Op2_exam num: 0.122321
+Barinel_rank num: 67
+Barinel_exam num: 0.120536
+Dstar_rank num: 68
+Dstar_exam num: 0.122321
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 100
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 101
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 102
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 103
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 104
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 105
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 104
+Tarantula_exam num: 0.186607
+Ochiai_rank num: 104
+Ochiai_exam num: 0.186607
+Op2_rank num: 104
+Op2_exam num: 0.186607
+Barinel_rank num: 104
+Barinel_exam num: 0.186607
+Dstar_rank num: 104
+Dstar_exam num: 0.186607
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 111
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 119
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 126
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 133
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 67
+Tarantula_exam num: 0.120536
+Ochiai_rank num: 68
+Ochiai_exam num: 0.122321
+Op2_rank num: 68
+Op2_exam num: 0.122321
+Barinel_rank num: 67
+Barinel_exam num: 0.120536
+Dstar_rank num: 68
+Dstar_exam num: 0.122321
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 134
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 66
+Tarantula_exam num: 0.117857
+Ochiai_rank num: 67
+Ochiai_exam num: 0.119643
+Op2_rank num: 67
+Op2_exam num: 0.119643
+Barinel_rank num: 66
+Barinel_exam num: 0.117857
+Dstar_rank num: 67
+Dstar_exam num: 0.119643
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 137
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 138
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 139
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 145
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 146
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 166
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 147
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 148
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 149
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 150
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 151
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 152
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 154
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 155
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 168
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 171
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 174
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 79
+Tarantula_exam num: 0.141964
+Ochiai_rank num: 80
+Ochiai_exam num: 0.142857
+Op2_rank num: 80
+Op2_exam num: 0.142857
+Barinel_rank num: 79
+Barinel_exam num: 0.141964
+Dstar_rank num: 80
+Dstar_exam num: 0.142857
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 63
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 1
+Ochiai_exam num: 0.001786
+Op2_rank num: 1
+Op2_exam num: 0.001786
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 1
+Dstar_exam num: 0.001786
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 53
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 55
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 56
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 57
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 58
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 59
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 60
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 61
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 62
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 64
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 65
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 66
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 175
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 176
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 11
+Tarantula_exam num: 0.020536
+Ochiai_rank num: 12
+Ochiai_exam num: 0.021429
+Op2_rank num: 40
+Op2_exam num: 0.071429
+Barinel_rank num: 11
+Barinel_exam num: 0.020536
+Dstar_rank num: 40
+Dstar_exam num: 0.071429
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 71
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 73
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 50
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 283
+Op2_exam num: 0.505357
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 32
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 34
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 24
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 26
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 27
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 28
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 29
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 35
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 36
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 40
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 247
+Op2_exam num: 0.441071
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 41
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 247
+Op2_exam num: 0.441071
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 42
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 43
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 44
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 45
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 48
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 247
+Op2_exam num: 0.441071
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 49
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 74
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 75
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 76
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 77
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 78
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 80
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 79
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 81
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 82
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 169
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 184
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 185
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 186
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 191
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 187
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 188
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 189
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 265
+Op2_exam num: 0.474107
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 127
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 128
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 129
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 130
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 131
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 132
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 37
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 38
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 46
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 106
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 107
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 108
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 141
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 140
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 142
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 168
+Op2_exam num: 0.300893
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/__main__.py
+Line: 143
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 52
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 53
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 49
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 50
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 42
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 43
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 44
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 47
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 54
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 55
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 56
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 57
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 59
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 60
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 63
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/httpie/httpie_5_buggy/httpie/pretty.py
+Line: 68
+TOTAL_NUM_ALL: 560
+Tarantula_rank num: 201
+Tarantula_exam num: 0.358929
+Ochiai_rank num: 201
+Ochiai_exam num: 0.358929
+Op2_rank num: 230
+Op2_exam num: 0.410714
+Barinel_rank num: 201
+Barinel_exam num: 0.358929
+Dstar_rank num: 201
+Dstar_exam num: 0.358929

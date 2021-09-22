@@ -1,0 +1,2590 @@
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 51
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 45
+Tarantula_exam num: 0.213270
+Ochiai_rank num: 43
+Ochiai_exam num: 0.203791
+Op2_rank num: 25
+Op2_exam num: 0.118483
+Barinel_rank num: 45
+Barinel_exam num: 0.213270
+Dstar_rank num: 25
+Dstar_exam num: 0.118483
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 64
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 45
+Tarantula_exam num: 0.213270
+Ochiai_rank num: 43
+Ochiai_exam num: 0.203791
+Op2_rank num: 25
+Op2_exam num: 0.118483
+Barinel_rank num: 45
+Barinel_exam num: 0.213270
+Dstar_rank num: 25
+Dstar_exam num: 0.118483
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 65
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 45
+Tarantula_exam num: 0.213270
+Ochiai_rank num: 43
+Ochiai_exam num: 0.203791
+Op2_rank num: 25
+Op2_exam num: 0.118483
+Barinel_rank num: 45
+Barinel_exam num: 0.213270
+Dstar_rank num: 25
+Dstar_exam num: 0.118483
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 66
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 45
+Tarantula_exam num: 0.213270
+Ochiai_rank num: 43
+Ochiai_exam num: 0.203791
+Op2_rank num: 25
+Op2_exam num: 0.118483
+Barinel_rank num: 45
+Barinel_exam num: 0.213270
+Dstar_rank num: 25
+Dstar_exam num: 0.118483
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 67
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 69
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 45
+Tarantula_exam num: 0.213270
+Ochiai_rank num: 43
+Ochiai_exam num: 0.203791
+Op2_rank num: 25
+Op2_exam num: 0.118483
+Barinel_rank num: 45
+Barinel_exam num: 0.213270
+Dstar_rank num: 25
+Dstar_exam num: 0.118483
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 72
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 38
+Tarantula_exam num: 0.182464
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 18
+Op2_exam num: 0.087678
+Barinel_rank num: 38
+Barinel_exam num: 0.182464
+Dstar_rank num: 18
+Dstar_exam num: 0.087678
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 111
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 38
+Tarantula_exam num: 0.182464
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 18
+Op2_exam num: 0.087678
+Barinel_rank num: 38
+Barinel_exam num: 0.182464
+Dstar_rank num: 18
+Dstar_exam num: 0.087678
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 24
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 40
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 41
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 42
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 47
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 43
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 46
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 44
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 114
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 38
+Tarantula_exam num: 0.182464
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 18
+Op2_exam num: 0.087678
+Barinel_rank num: 38
+Barinel_exam num: 0.182464
+Dstar_rank num: 18
+Dstar_exam num: 0.087678
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 117
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 38
+Tarantula_exam num: 0.182464
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 18
+Op2_exam num: 0.087678
+Barinel_rank num: 38
+Barinel_exam num: 0.182464
+Dstar_rank num: 18
+Dstar_exam num: 0.087678
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 116
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 38
+Tarantula_exam num: 0.182464
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 18
+Op2_exam num: 0.087678
+Barinel_rank num: 38
+Barinel_exam num: 0.182464
+Dstar_rank num: 18
+Dstar_exam num: 0.087678
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 119
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 38
+Tarantula_exam num: 0.182464
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 18
+Op2_exam num: 0.087678
+Barinel_rank num: 38
+Barinel_exam num: 0.182464
+Dstar_rank num: 18
+Dstar_exam num: 0.087678
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 121
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 38
+Tarantula_exam num: 0.182464
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 18
+Op2_exam num: 0.087678
+Barinel_rank num: 38
+Barinel_exam num: 0.182464
+Dstar_rank num: 18
+Dstar_exam num: 0.087678
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 122
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 123
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 128
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 38
+Tarantula_exam num: 0.182464
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 18
+Op2_exam num: 0.087678
+Barinel_rank num: 38
+Barinel_exam num: 0.182464
+Dstar_rank num: 18
+Dstar_exam num: 0.087678
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 129
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 130
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 132
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 134
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 135
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 136
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 138
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 141
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 142
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 144
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 153
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 16
+Tarantula_exam num: 0.078199
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 44
+Op2_exam num: 0.210900
+Barinel_rank num: 16
+Barinel_exam num: 0.078199
+Dstar_rank num: 44
+Dstar_exam num: 0.210900
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 159
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 155
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 16
+Tarantula_exam num: 0.078199
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 44
+Op2_exam num: 0.210900
+Barinel_rank num: 16
+Barinel_exam num: 0.078199
+Dstar_rank num: 44
+Dstar_exam num: 0.210900
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 157
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 16
+Tarantula_exam num: 0.078199
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 44
+Op2_exam num: 0.210900
+Barinel_rank num: 16
+Barinel_exam num: 0.078199
+Dstar_rank num: 44
+Dstar_exam num: 0.210900
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 156
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 16
+Tarantula_exam num: 0.078199
+Ochiai_rank num: 34
+Ochiai_exam num: 0.163507
+Op2_rank num: 44
+Op2_exam num: 0.210900
+Barinel_rank num: 16
+Barinel_exam num: 0.078199
+Dstar_rank num: 44
+Dstar_exam num: 0.210900
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 160
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 161
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 166
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 27
+Tarantula_exam num: 0.130332
+Ochiai_rank num: 21
+Ochiai_exam num: 0.101896
+Op2_rank num: 7
+Op2_exam num: 0.035545
+Barinel_rank num: 27
+Barinel_exam num: 0.130332
+Dstar_rank num: 7
+Dstar_exam num: 0.035545
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 45
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 1
+Tarantula_exam num: 0.004739
+Ochiai_rank num: 1
+Ochiai_exam num: 0.004739
+Op2_rank num: 29
+Op2_exam num: 0.137441
+Barinel_rank num: 1
+Barinel_exam num: 0.004739
+Dstar_rank num: 29
+Dstar_exam num: 0.137441
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 125
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 126
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 145
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 50
+Tarantula_exam num: 0.239336
+Ochiai_rank num: 51
+Ochiai_exam num: 0.244076
+Op2_rank num: 51
+Op2_exam num: 0.244076
+Barinel_rank num: 50
+Barinel_exam num: 0.239336
+Dstar_rank num: 51
+Dstar_exam num: 0.244076
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 146
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 50
+Tarantula_exam num: 0.239336
+Ochiai_rank num: 51
+Ochiai_exam num: 0.244076
+Op2_rank num: 51
+Op2_exam num: 0.244076
+Barinel_rank num: 50
+Barinel_exam num: 0.239336
+Dstar_rank num: 51
+Dstar_exam num: 0.244076
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 148
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 50
+Tarantula_exam num: 0.239336
+Ochiai_rank num: 51
+Ochiai_exam num: 0.244076
+Op2_rank num: 51
+Op2_exam num: 0.244076
+Barinel_rank num: 50
+Barinel_exam num: 0.239336
+Dstar_rank num: 51
+Dstar_exam num: 0.244076
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 149
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 50
+Tarantula_exam num: 0.239336
+Ochiai_rank num: 51
+Ochiai_exam num: 0.244076
+Op2_rank num: 51
+Op2_exam num: 0.244076
+Barinel_rank num: 50
+Barinel_exam num: 0.239336
+Dstar_rank num: 51
+Dstar_exam num: 0.244076
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 362
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 363
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 8
+Tarantula_exam num: 0.037915
+Ochiai_rank num: 8
+Ochiai_exam num: 0.037915
+Op2_rank num: 36
+Op2_exam num: 0.170616
+Barinel_rank num: 8
+Barinel_exam num: 0.037915
+Dstar_rank num: 36
+Dstar_exam num: 0.170616
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 197
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 255
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 182
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 61
+Tarantula_exam num: 0.289100
+Ochiai_rank num: 48
+Ochiai_exam num: 0.227488
+Op2_rank num: 28
+Op2_exam num: 0.132701
+Barinel_rank num: 61
+Barinel_exam num: 0.289100
+Dstar_rank num: 28
+Dstar_exam num: 0.132701
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 183
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 56
+Tarantula_exam num: 0.267773
+Ochiai_rank num: 57
+Ochiai_exam num: 0.272512
+Op2_rank num: 57
+Op2_exam num: 0.272512
+Barinel_rank num: 56
+Barinel_exam num: 0.267773
+Dstar_rank num: 57
+Dstar_exam num: 0.272512
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 173
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 179
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 118
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 56
+Tarantula_exam num: 0.267773
+Ochiai_rank num: 57
+Ochiai_exam num: 0.272512
+Op2_rank num: 57
+Op2_exam num: 0.272512
+Barinel_rank num: 56
+Barinel_exam num: 0.267773
+Dstar_rank num: 57
+Dstar_exam num: 0.272512
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 180
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 187
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 184
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 56
+Tarantula_exam num: 0.267773
+Ochiai_rank num: 57
+Ochiai_exam num: 0.272512
+Op2_rank num: 57
+Op2_exam num: 0.272512
+Barinel_rank num: 56
+Barinel_exam num: 0.267773
+Dstar_rank num: 57
+Dstar_exam num: 0.272512
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 185
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 56
+Tarantula_exam num: 0.267773
+Ochiai_rank num: 57
+Ochiai_exam num: 0.272512
+Op2_rank num: 57
+Op2_exam num: 0.272512
+Barinel_rank num: 56
+Barinel_exam num: 0.267773
+Dstar_rank num: 57
+Dstar_exam num: 0.272512
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 186
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 56
+Tarantula_exam num: 0.267773
+Ochiai_rank num: 57
+Ochiai_exam num: 0.272512
+Op2_rank num: 57
+Op2_exam num: 0.272512
+Barinel_rank num: 56
+Barinel_exam num: 0.267773
+Dstar_rank num: 57
+Dstar_exam num: 0.272512
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 261
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 264
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 271
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 272
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 274
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 286
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 287
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 288
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 289
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 290
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 291
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 292
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 293
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 294
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 295
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 296
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 297
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 298
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 299
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 301
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 352
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 353
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 354
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 56
+Tarantula_exam num: 0.267773
+Ochiai_rank num: 57
+Ochiai_exam num: 0.272512
+Op2_rank num: 57
+Op2_exam num: 0.272512
+Barinel_rank num: 56
+Barinel_exam num: 0.267773
+Dstar_rank num: 57
+Dstar_exam num: 0.272512
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 355
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 56
+Tarantula_exam num: 0.267773
+Ochiai_rank num: 57
+Ochiai_exam num: 0.272512
+Op2_rank num: 57
+Op2_exam num: 0.272512
+Barinel_rank num: 56
+Barinel_exam num: 0.267773
+Dstar_rank num: 57
+Dstar_exam num: 0.272512
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 358
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 359
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 360
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 150
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 48
+Tarantula_exam num: 0.227488
+Ochiai_rank num: 49
+Ochiai_exam num: 0.232227
+Op2_rank num: 49
+Op2_exam num: 0.232227
+Barinel_rank num: 48
+Barinel_exam num: 0.227488
+Dstar_rank num: 49
+Dstar_exam num: 0.232227
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 268
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 19
+Tarantula_exam num: 0.092417
+Ochiai_rank num: 46
+Ochiai_exam num: 0.220379
+Op2_rank num: 47
+Op2_exam num: 0.225118
+Barinel_rank num: 19
+Barinel_exam num: 0.092417
+Dstar_rank num: 47
+Dstar_exam num: 0.225118
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 269
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 19
+Tarantula_exam num: 0.092417
+Ochiai_rank num: 46
+Ochiai_exam num: 0.220379
+Op2_rank num: 47
+Op2_exam num: 0.225118
+Barinel_rank num: 19
+Barinel_exam num: 0.092417
+Dstar_rank num: 47
+Dstar_exam num: 0.225118
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 112
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 169
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 129
+Op2_exam num: 0.613744
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 139
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 170
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 129
+Op2_exam num: 0.613744
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 577
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 184
+Op2_exam num: 0.874408
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 581
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 184
+Op2_exam num: 0.874408
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 365
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 180
+Op2_exam num: 0.853081
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 369
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 180
+Op2_exam num: 0.853081
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 256
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 180
+Op2_exam num: 0.853081
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 257
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 180
+Op2_exam num: 0.853081
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 262
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 265
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 148
+Op2_exam num: 0.703791
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 266
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 148
+Op2_exam num: 0.703791
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 373
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 180
+Op2_exam num: 0.853081
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 377
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 378
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 379
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 380
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 381
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 382
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 383
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 384
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 385
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 386
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 387
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 388
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 389
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 398
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 400
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 401
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 476
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 404
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 405
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 407
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 408
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 409
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 410
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 477
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 478
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 584
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 180
+Op2_exam num: 0.853081
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 593
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 180
+Op2_exam num: 0.853081
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 601
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 602
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 163
+Op2_exam num: 0.772512
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 258
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 259
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 163
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 146
+Op2_exam num: 0.694313
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 164
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 146
+Op2_exam num: 0.694313
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 594
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 142
+Op2_exam num: 0.675355
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 595
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 142
+Op2_exam num: 0.675355
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 596
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 142
+Op2_exam num: 0.675355
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 597
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 142
+Op2_exam num: 0.675355
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 599
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 142
+Op2_exam num: 0.675355
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 598
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 142
+Op2_exam num: 0.675355
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 605
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 610
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 411
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 135
+Op2_exam num: 0.642180
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 412
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 135
+Op2_exam num: 0.642180
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 466
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 135
+Op2_exam num: 0.642180
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 467
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 135
+Op2_exam num: 0.642180
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 470
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 135
+Op2_exam num: 0.642180
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 468
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 135
+Op2_exam num: 0.642180
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 471
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 472
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 135
+Op2_exam num: 0.642180
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 473
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 135
+Op2_exam num: 0.642180
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 480
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 129
+Op2_exam num: 0.613744
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 500
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 129
+Op2_exam num: 0.613744
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 374
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 375
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 501
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 582
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 503
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 505
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 507
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_tqdm.py
+Line: 508
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 17
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 18
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 79
+Tarantula_exam num: 0.374408
+Ochiai_rank num: 79
+Ochiai_exam num: 0.374408
+Op2_rank num: 79
+Op2_exam num: 0.374408
+Barinel_rank num: 79
+Barinel_exam num: 0.374408
+Dstar_rank num: 79
+Dstar_exam num: 0.374408
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 19
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 56
+Tarantula_exam num: 0.267773
+Ochiai_rank num: 57
+Ochiai_exam num: 0.272512
+Op2_rank num: 57
+Op2_exam num: 0.272512
+Barinel_rank num: 56
+Barinel_exam num: 0.267773
+Dstar_rank num: 57
+Dstar_exam num: 0.272512
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 23
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 24
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 13
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 14
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 20
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 25
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 26
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 27
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 31
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 32
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 33
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 34
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 35
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 36
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/tqdm/tqdm_9_buggy/tqdm/_utils.py
+Line: 37
+TOTAL_NUM_ALL: 211
+Tarantula_rank num: 141
+Tarantula_exam num: 0.668246
+Ochiai_rank num: 141
+Ochiai_exam num: 0.668246
+Op2_rank num: 112
+Op2_exam num: 0.530806
+Barinel_rank num: 141
+Barinel_exam num: 0.668246
+Dstar_rank num: 141
+Dstar_exam num: 0.668246

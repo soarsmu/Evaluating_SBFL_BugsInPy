@@ -1,0 +1,2870 @@
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 555
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 636
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 543
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 549
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 531
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 539
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 78
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 99
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 100
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 101
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 102
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 103
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 104
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 105
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 106
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 107
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 108
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 109
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 110
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 540
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 550
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 551
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 552
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 638
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 639
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 641
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 644
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 645
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 646
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 669
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 647
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 648
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 649
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 650
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 651
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 652
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 653
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 654
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 655
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 656
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 657
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 658
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 659
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 660
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 661
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 662
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 663
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 664
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 665
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 666
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 670
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 681
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 671
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 672
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 673
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 674
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 675
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 676
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 683
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 686
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 688
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 689
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/server.py
+Line: 694
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/handlers.py
+Line: 26
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/handlers.py
+Line: 27
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/handlers.py
+Line: 28
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/handlers.py
+Line: 29
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 31
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 44
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 201
+Op2_exam num: 0.192713
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 49
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 50
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 201
+Op2_exam num: 0.192713
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 52
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 201
+Op2_exam num: 0.192713
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 53
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 54
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 55
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 56
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 204
+Op2_exam num: 0.196069
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 57
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 204
+Op2_exam num: 0.196069
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 58
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 59
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 60
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 61
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 62
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 63
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 64
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 65
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 66
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 67
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 68
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 69
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 72
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1100
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1020
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1037
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 823
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 838
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 126
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 201
+Op2_exam num: 0.192713
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 127
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 120
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 130
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 128
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 864
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 866
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 869
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 871
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 872
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 874
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 876
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 875
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 878
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 886
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 887
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 888
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 900
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 889
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 890
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 891
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 892
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 893
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 894
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 895
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 896
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 897
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 901
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 902
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 903
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 909
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 908
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 914
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 917
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 918
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 919
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 921
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 923
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1046
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1054
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1055
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1058
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1057
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1090
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1059
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1060
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1061
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1062
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1063
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1064
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1065
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1066
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1067
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1068
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1069
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1070
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1071
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1072
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1073
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1074
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1075
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1076
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1077
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1078
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1079
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1080
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1081
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1082
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1083
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1096
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1103
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1097
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1098
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1101
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1107
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1106
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1108
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1110
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1112
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1116
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1117
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1118
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1120
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/app.py
+Line: 1122
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/router.py
+Line: 82
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/router.py
+Line: 83
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/router.py
+Line: 84
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/router.py
+Line: 85
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/router.py
+Line: 86
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/router.py
+Line: 87
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/router.py
+Line: 88
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/router.py
+Line: 89
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 118
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 123
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 12
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 201
+Op2_exam num: 0.192713
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 34
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 35
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 36
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 37
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 38
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 39
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 40
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 41
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 42
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 43
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 46
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 47
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 48
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 124
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/sanic/sanic_5_buggy/sanic/config.py
+Line: 51
+TOTAL_NUM_ALL: 1043
+Tarantula_rank num: 103
+Tarantula_exam num: 0.098754
+Ochiai_rank num: 103
+Ochiai_exam num: 0.098754
+Op2_rank num: 99
+Op2_exam num: 0.095398
+Barinel_rank num: 103
+Barinel_exam num: 0.098754
+Dstar_rank num: 103
+Dstar_exam num: 0.098754

@@ -1,0 +1,6328 @@
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 143
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 145
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 123
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 19
+Tarantula_exam num: 0.016239
+Ochiai_rank num: 19
+Ochiai_exam num: 0.016239
+Op2_rank num: 19
+Op2_exam num: 0.016239
+Barinel_rank num: 19
+Barinel_exam num: 0.016239
+Dstar_rank num: 19
+Dstar_exam num: 0.016239
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 122
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 1
+Ochiai_exam num: 0.000855
+Op2_rank num: 1
+Op2_exam num: 0.000855
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 1
+Dstar_exam num: 0.000855
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 70
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 80
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 90
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 91
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 95
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 96
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 99
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 109
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 118
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 121
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 131
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 134
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 137
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 140
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 147
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 9
+Tarantula_exam num: 0.008120
+Ochiai_rank num: 10
+Ochiai_exam num: 0.008547
+Op2_rank num: 10
+Op2_exam num: 0.008547
+Barinel_rank num: 9
+Barinel_exam num: 0.008120
+Dstar_rank num: 10
+Dstar_exam num: 0.008547
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 212
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 214
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 206
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 208
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 191
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 192
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 166
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 168
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 13
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 15
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 150
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 161
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 163
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 170
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 172
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 174
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 194
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 198
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 200
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 202
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 201
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 209
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 210
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 215
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 216
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 17
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 48
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 49
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 50
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 51
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 53
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 55
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 218
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 246
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 248
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 240
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 239
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 235
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 236
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 241
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 242
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 243
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 251
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/__init__.py
+Line: 253
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 261
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 262
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 244
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 245
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 212
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 448
+Op2_exam num: 0.382906
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 214
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 299
+Op2_exam num: 0.255556
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 209
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 210
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 195
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 451
+Op2_exam num: 0.385897
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 192
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 451
+Op2_exam num: 0.385897
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 180
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 445
+Op2_exam num: 0.380342
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 190
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 445
+Op2_exam num: 0.380342
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 102
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 445
+Op2_exam num: 0.380342
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 103
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 445
+Op2_exam num: 0.380342
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 104
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 445
+Op2_exam num: 0.380342
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 107
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 115
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 268
+Op2_exam num: 0.229487
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 117
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 240
+Op2_exam num: 0.205128
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 120
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 237
+Op2_exam num: 0.202991
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 122
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 237
+Op2_exam num: 0.202991
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 124
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 194
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 199
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 197
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 200
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 201
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 202
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 203
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 204
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 205
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 206
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 207
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 213
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 217
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 215
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 299
+Op2_exam num: 0.255556
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 258
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 218
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 232
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 235
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 238
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 299
+Op2_exam num: 0.255556
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 246
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 250
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 251
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 252
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 259
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 254
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 108
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 270
+Op2_exam num: 0.231197
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 118
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 193
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 196
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 128
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 113
+Op2_exam num: 0.097009
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 129
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 113
+Op2_exam num: 0.097009
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 116
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 113
+Op2_exam num: 0.097009
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 130
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 113
+Op2_exam num: 0.097009
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 105
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 247
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 248
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 219
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 220
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 222
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 223
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 224
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 225
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 226
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 228
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/tracer.py
+Line: 236
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 247
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 248
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 213
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 214
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 205
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 206
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 197
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 198
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 193
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 195
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 172
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 174
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 162
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 163
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 159
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 160
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 156
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 157
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 143
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 144
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 134
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 135
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 126
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 127
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 118
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 119
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 111
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 112
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 100
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 101
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 79
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 81
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 69
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 70
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 54
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 55
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 47
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 449
+Op2_exam num: 0.384188
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 41
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 449
+Op2_exam num: 0.384188
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 38
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 39
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 31
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 32
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 18
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 19
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 20
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 24
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 25
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 26
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 27
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 40
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 42
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 45
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 43
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 46
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 48
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 56
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 57
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 58
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 71
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 73
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 74
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 75
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 82
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 83
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 295
+Op2_exam num: 0.252564
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 84
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 85
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 291
+Op2_exam num: 0.249145
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 86
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 88
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 89
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 90
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 91
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 93
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 94
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 240
+Op2_exam num: 0.205128
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 102
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 104
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 105
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 113
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 115
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 116
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 120
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 295
+Op2_exam num: 0.252564
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 128
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 291
+Op2_exam num: 0.249145
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 129
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 130
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 240
+Op2_exam num: 0.205128
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 136
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 137
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 307
+Op2_exam num: 0.262821
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 145
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 146
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 293
+Op2_exam num: 0.250855
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 148
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 149
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 164
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 293
+Op2_exam num: 0.250855
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 175
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 177
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 178
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 299
+Op2_exam num: 0.255556
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 179
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 180
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 186
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 183
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 187
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 189
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 190
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 199
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 299
+Op2_exam num: 0.255556
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 208
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 211
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 215
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 217
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 218
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 219
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 220
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 250
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 255
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 256
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 257
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 258
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 259
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 264
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 260
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 261
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 262
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 268
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 366
+Op2_exam num: 0.313248
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 191
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 209
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 132
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 272
+Op2_exam num: 0.232906
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 200
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 272
+Op2_exam num: 0.232906
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 203
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 270
+Op2_exam num: 0.231197
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 150
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 165
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 166
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 121
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 235
+Op2_exam num: 0.201282
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 124
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 235
+Op2_exam num: 0.201282
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 168
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 251
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 252
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 188
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 201
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 139
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 280
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 281
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 272
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 273
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 274
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 275
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 212
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/utils.py
+Line: 15
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 70
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 71
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 30
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 32
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 12
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 13
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 14
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 15
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 22
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 16
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 17
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 19
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 33
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 73
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 431
+Op2_exam num: 0.368376
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 72
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 62
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 63
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 64
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 67
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 65
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/utils.py
+Line: 66
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 154
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 156
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 83
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 84
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 77
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 78
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 57
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 58
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 59
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 61
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 62
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 63
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 254
+Op2_exam num: 0.217521
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 64
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 79
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 85
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 86
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 87
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/contextlib.py
+Line: 88
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 282
+Op2_exam num: 0.241026
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 18
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 19
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 11
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 268
+Op2_exam num: 0.229487
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 12
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 233
+Op2_exam num: 0.199145
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 10
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 233
+Op2_exam num: 0.199145
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 14
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 233
+Op2_exam num: 0.199145
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 20
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 21
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 22
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 25
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 23
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 103
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 104
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 105
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 106
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/pysnooper/variables.py
+Line: 107
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1375
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1381
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1229
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1231
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1202
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1206
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1192
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1193
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1104
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1105
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 886
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 889
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 880
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 881
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 869
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 871
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 859
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 861
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 846
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 850
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 817
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 821
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 542
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 544
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 435
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 436
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 242
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 247
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 202
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 203
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 205
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 206
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 207
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 208
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 209
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 210
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 211
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 237
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 213
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 215
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 216
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 217
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 221
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 218
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 223
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 219
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 222
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 224
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 228
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 236
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 238
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 239
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 240
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 250
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 256
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 437
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 449
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 444
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 447
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 822
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 823
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 844
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 826
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 827
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 832
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 834
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 851
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 852
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 853
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 854
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 855
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 857
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 862
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 863
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 864
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 865
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 866
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 867
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 872
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 882
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 883
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 884
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 890
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 891
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 892
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 893
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 894
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1194
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1195
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1196
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1199
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1200
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1207
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1210
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 191
+Op2_exam num: 0.163675
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1383
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1384
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1385
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1386
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 133
+Op2_exam num: 0.114103
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1489
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1494
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/mini_toolbox/pathlib.py
+Line: 1496
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/__init__.py
+Line: 1
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/indentation.py
+Line: 1
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/indentation.py
+Line: 4
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/indentation.py
+Line: 5
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/indentation.py
+Line: 9
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/indentation.py
+Line: 13
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/indentation.py
+Line: 17
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/indentation.py
+Line: 18
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/indentation.py
+Line: 22
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/indentation.py
+Line: 26
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/recursion.py
+Line: 15
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/recursion.py
+Line: 16
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/recursion.py
+Line: 1
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/recursion.py
+Line: 4
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/recursion.py
+Line: 5
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/recursion.py
+Line: 11
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/recursion.py
+Line: 18
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/recursion.py
+Line: 212
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/exception.py
+Line: 1
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 104
+Op2_exam num: 0.088889
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/exception.py
+Line: 4
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/exception.py
+Line: 8
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/exception.py
+Line: 16
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/exception.py
+Line: 17
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709
+___________________
+File: /mnt/d/Dataset_BugsInPy/all/PySnooper/PySnooper_2_buggy/tests/samples/exception.py
+Line: 24
+TOTAL_NUM_ALL: 1170
+Tarantula_rank num: 236
+Tarantula_exam num: 0.201709
+Ochiai_rank num: 236
+Ochiai_exam num: 0.201709
+Op2_rank num: 58
+Op2_exam num: 0.049573
+Barinel_rank num: 236
+Barinel_exam num: 0.201709
+Dstar_rank num: 236
+Dstar_exam num: 0.201709

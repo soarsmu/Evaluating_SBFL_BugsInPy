@@ -1,0 +1,5474 @@
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1186
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 48
+Ochiai_exam num: 0.007663
+Op2_rank num: 48
+Op2_exam num: 0.007663
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 48
+Dstar_exam num: 0.007663
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1187
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 176
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 178
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 180
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 41
+Tarantula_exam num: 0.006557
+Ochiai_rank num: 4
+Ochiai_exam num: 0.000711
+Op2_rank num: 4
+Op2_exam num: 0.000711
+Barinel_rank num: 41
+Barinel_exam num: 0.006557
+Dstar_rank num: 4
+Dstar_exam num: 0.000711
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 181
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 41
+Tarantula_exam num: 0.006557
+Ochiai_rank num: 4
+Ochiai_exam num: 0.000711
+Op2_rank num: 4
+Op2_exam num: 0.000711
+Barinel_rank num: 41
+Barinel_exam num: 0.006557
+Dstar_rank num: 4
+Dstar_exam num: 0.000711
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 182
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 183
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 184
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 185
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 41
+Tarantula_exam num: 0.006557
+Ochiai_rank num: 4
+Ochiai_exam num: 0.000711
+Op2_rank num: 4
+Op2_exam num: 0.000711
+Barinel_rank num: 41
+Barinel_exam num: 0.006557
+Dstar_rank num: 4
+Dstar_exam num: 0.000711
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 186
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 187
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 41
+Tarantula_exam num: 0.006557
+Ochiai_rank num: 4
+Ochiai_exam num: 0.000711
+Op2_rank num: 4
+Op2_exam num: 0.000711
+Barinel_rank num: 41
+Barinel_exam num: 0.006557
+Dstar_rank num: 4
+Dstar_exam num: 0.000711
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 188
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 190
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 38
+Tarantula_exam num: 0.006004
+Ochiai_rank num: 1
+Ochiai_exam num: 0.000158
+Op2_rank num: 1
+Op2_exam num: 0.000158
+Barinel_rank num: 38
+Barinel_exam num: 0.006004
+Dstar_rank num: 1
+Dstar_exam num: 0.000158
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 217
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 41
+Tarantula_exam num: 0.006557
+Ochiai_rank num: 4
+Ochiai_exam num: 0.000711
+Op2_rank num: 4
+Op2_exam num: 0.000711
+Barinel_rank num: 41
+Barinel_exam num: 0.006557
+Dstar_rank num: 4
+Dstar_exam num: 0.000711
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 218
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 41
+Tarantula_exam num: 0.006557
+Ochiai_rank num: 4
+Ochiai_exam num: 0.000711
+Op2_rank num: 4
+Op2_exam num: 0.000711
+Barinel_rank num: 41
+Barinel_exam num: 0.006557
+Dstar_rank num: 4
+Dstar_exam num: 0.000711
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 227
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 76
+Tarantula_exam num: 0.012008
+Ochiai_rank num: 8
+Ochiai_exam num: 0.001264
+Op2_rank num: 8
+Op2_exam num: 0.001264
+Barinel_rank num: 76
+Barinel_exam num: 0.012008
+Dstar_rank num: 8
+Dstar_exam num: 0.001264
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 230
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 77
+Tarantula_exam num: 0.012166
+Ochiai_rank num: 35
+Ochiai_exam num: 0.005530
+Op2_rank num: 35
+Op2_exam num: 0.005530
+Barinel_rank num: 77
+Barinel_exam num: 0.012166
+Dstar_rank num: 35
+Dstar_exam num: 0.005530
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1188
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1190
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1191
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1193
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1194
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1201
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1202
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1203
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1209
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1211
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1213
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1215
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1216
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 1217
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 465
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 468
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/YoutubeDL.py
+Line: 469
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 15
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 73
+Tarantula_exam num: 0.011534
+Ochiai_rank num: 38
+Ochiai_exam num: 0.006004
+Op2_rank num: 38
+Op2_exam num: 0.006004
+Barinel_rank num: 73
+Barinel_exam num: 0.011534
+Dstar_rank num: 38
+Dstar_exam num: 0.006004
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 16
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 73
+Tarantula_exam num: 0.011534
+Ochiai_rank num: 38
+Ochiai_exam num: 0.006004
+Op2_rank num: 38
+Op2_exam num: 0.006004
+Barinel_rank num: 73
+Barinel_exam num: 0.011534
+Dstar_rank num: 38
+Dstar_exam num: 0.006004
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 17
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 18
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 19
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 73
+Tarantula_exam num: 0.011534
+Ochiai_rank num: 38
+Ochiai_exam num: 0.006004
+Op2_rank num: 38
+Op2_exam num: 0.006004
+Barinel_rank num: 73
+Barinel_exam num: 0.011534
+Dstar_rank num: 38
+Dstar_exam num: 0.006004
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 20
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 73
+Tarantula_exam num: 0.011534
+Ochiai_rank num: 38
+Ochiai_exam num: 0.006004
+Op2_rank num: 38
+Op2_exam num: 0.006004
+Barinel_rank num: 73
+Barinel_exam num: 0.011534
+Dstar_rank num: 38
+Dstar_exam num: 0.006004
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 22
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 73
+Tarantula_exam num: 0.011534
+Ochiai_rank num: 38
+Ochiai_exam num: 0.006004
+Op2_rank num: 38
+Op2_exam num: 0.006004
+Barinel_rank num: 73
+Barinel_exam num: 0.011534
+Dstar_rank num: 38
+Dstar_exam num: 0.006004
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 50
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 44
+Ochiai_exam num: 0.006952
+Op2_rank num: 44
+Op2_exam num: 0.006952
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 44
+Dstar_exam num: 0.006952
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 53
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 45
+Ochiai_exam num: 0.007189
+Op2_rank num: 45
+Op2_exam num: 0.007189
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 45
+Dstar_exam num: 0.007189
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 54
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 45
+Ochiai_exam num: 0.007189
+Op2_rank num: 45
+Op2_exam num: 0.007189
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 45
+Dstar_exam num: 0.007189
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 21
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 78
+Tarantula_exam num: 0.012324
+Ochiai_rank num: 47
+Ochiai_exam num: 0.007426
+Op2_rank num: 47
+Op2_exam num: 0.007426
+Barinel_rank num: 78
+Barinel_exam num: 0.012324
+Dstar_rank num: 47
+Dstar_exam num: 0.007426
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 25
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 27
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 28
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 29
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/test/helper.py
+Line: 30
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 551
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 48
+Ochiai_exam num: 0.007663
+Op2_rank num: 48
+Op2_exam num: 0.007663
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 48
+Dstar_exam num: 0.007663
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 552
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 574
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 57
+Tarantula_exam num: 0.009085
+Ochiai_rank num: 21
+Ochiai_exam num: 0.003397
+Op2_rank num: 21
+Op2_exam num: 0.003397
+Barinel_rank num: 57
+Barinel_exam num: 0.009085
+Dstar_rank num: 21
+Dstar_exam num: 0.003397
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 755
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 757
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 759
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 761
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 763
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 764
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 765
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 766
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 767
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 768
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 769
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 770
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 771
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 772
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 773
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 774
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 775
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 777
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 778
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 782
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 779
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 780
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 781
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 783
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 786
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 784
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 851
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 853
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 835
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 837
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 798
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 802
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 803
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 805
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 806
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 822
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 838
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 840
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 841
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 842
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 844
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 845
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 854
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 855
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 225
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 227
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 228
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 229
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 230
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1098
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1100
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1101
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1102
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1103
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 387
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 391
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 384
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 385
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 377
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 378
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 371
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 372
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 282
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 283
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 284
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 285
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 373
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 374
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 375
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 379
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 380
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 381
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 382
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 392
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 393
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 396
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 487
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 489
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 490
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 491
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 493
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 492
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1181
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1182
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1173
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1174
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1175
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1183
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1184
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1185
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1186
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1189
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1193
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1194
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1198
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1199
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1201
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1202
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1203
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1209
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1210
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1214
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1216
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1215
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1141
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1142
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1143
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1145
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1146
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1147
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1148
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1149
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1150
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1151
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1154
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1152
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1153
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 460
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 461
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 455
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 475
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 462
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 463
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 464
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 465
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 466
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 467
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 468
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 469
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 471
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 473
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 476
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 477
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 478
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 479
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 481
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 483
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 484
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 485
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 367
+Op2_exam num: 0.058066
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 470
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 472
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 482
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1012
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1013
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 505
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 510
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 513
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 514
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1014
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1015
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1017
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1018
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1022
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1021
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1042
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1043
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1034
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1037
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1038
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1039
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1044
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1045
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1046
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1047
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1048
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1065
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1066
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1067
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 447
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 449
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 450
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 451
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 453
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 495
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 499
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 501
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 502
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1127
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1128
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 1129
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 241
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 240
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 242
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 243
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 244
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 249
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 245
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 247
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/utils.py
+Line: 248
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 144
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 80
+Tarantula_exam num: 0.012640
+Ochiai_rank num: 42
+Ochiai_exam num: 0.006636
+Op2_rank num: 42
+Op2_exam num: 0.006636
+Barinel_rank num: 80
+Barinel_exam num: 0.012640
+Dstar_rank num: 42
+Dstar_exam num: 0.006636
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 147
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 80
+Tarantula_exam num: 0.012640
+Ochiai_rank num: 42
+Ochiai_exam num: 0.006636
+Op2_rank num: 42
+Op2_exam num: 0.006636
+Barinel_rank num: 80
+Barinel_exam num: 0.012640
+Dstar_rank num: 42
+Dstar_exam num: 0.006636
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 160
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 85
+Tarantula_exam num: 0.013430
+Ochiai_rank num: 85
+Ochiai_exam num: 0.013430
+Op2_rank num: 53
+Op2_exam num: 0.008374
+Barinel_rank num: 85
+Barinel_exam num: 0.013430
+Dstar_rank num: 53
+Dstar_exam num: 0.008374
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 162
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 85
+Tarantula_exam num: 0.013430
+Ochiai_rank num: 85
+Ochiai_exam num: 0.013430
+Op2_rank num: 53
+Op2_exam num: 0.008374
+Barinel_rank num: 85
+Barinel_exam num: 0.013430
+Dstar_rank num: 53
+Dstar_exam num: 0.008374
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 128
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 88
+Tarantula_exam num: 0.013983
+Ochiai_rank num: 88
+Ochiai_exam num: 0.013983
+Op2_rank num: 56
+Op2_exam num: 0.008927
+Barinel_rank num: 88
+Barinel_exam num: 0.013983
+Dstar_rank num: 56
+Dstar_exam num: 0.008927
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 130
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 88
+Tarantula_exam num: 0.013983
+Ochiai_rank num: 88
+Ochiai_exam num: 0.013983
+Op2_rank num: 56
+Op2_exam num: 0.008927
+Barinel_rank num: 88
+Barinel_exam num: 0.013983
+Dstar_rank num: 56
+Dstar_exam num: 0.008927
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 131
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 85
+Tarantula_exam num: 0.013430
+Ochiai_rank num: 85
+Ochiai_exam num: 0.013430
+Op2_rank num: 53
+Op2_exam num: 0.008374
+Barinel_rank num: 85
+Barinel_exam num: 0.013430
+Dstar_rank num: 53
+Dstar_exam num: 0.008374
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 133
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 388
+Op2_exam num: 0.061305
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 140
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 388
+Op2_exam num: 0.061305
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 141
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 142
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 388
+Op2_exam num: 0.061305
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 543
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 545
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 378
+Op2_exam num: 0.059725
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 539
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 541
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 378
+Op2_exam num: 0.059725
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 177
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 179
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 352
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 331
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 338
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 339
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 345
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 348
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/common.py
+Line: 350
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/__init__.py
+Line: 297
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 19
+Tarantula_exam num: 0.003002
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 73
+Op2_exam num: 0.011613
+Barinel_rank num: 19
+Barinel_exam num: 0.003002
+Dstar_rank num: 73
+Dstar_exam num: 0.011613
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/__init__.py
+Line: 299
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 80
+Tarantula_exam num: 0.012640
+Ochiai_rank num: 42
+Ochiai_exam num: 0.006636
+Op2_rank num: 42
+Op2_exam num: 0.006636
+Barinel_rank num: 80
+Barinel_exam num: 0.012640
+Dstar_rank num: 42
+Dstar_exam num: 0.006636
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/__init__.py
+Line: 294
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/__init__.py
+Line: 290
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 308
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 82
+Tarantula_exam num: 0.012956
+Ochiai_rank num: 66
+Ochiai_exam num: 0.010428
+Op2_rank num: 50
+Op2_exam num: 0.007900
+Barinel_rank num: 82
+Barinel_exam num: 0.012956
+Dstar_rank num: 50
+Dstar_exam num: 0.007900
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 309
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 85
+Tarantula_exam num: 0.013430
+Ochiai_rank num: 85
+Ochiai_exam num: 0.013430
+Op2_rank num: 53
+Op2_exam num: 0.008374
+Barinel_rank num: 85
+Barinel_exam num: 0.013430
+Dstar_rank num: 53
+Dstar_exam num: 0.008374
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 310
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 85
+Tarantula_exam num: 0.013430
+Ochiai_rank num: 85
+Ochiai_exam num: 0.013430
+Op2_rank num: 53
+Op2_exam num: 0.008374
+Barinel_rank num: 85
+Barinel_exam num: 0.013430
+Dstar_rank num: 53
+Dstar_exam num: 0.008374
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1749
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1751
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1624
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1623
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1619
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 302
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 305
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 378
+Op2_exam num: 0.059725
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 306
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 378
+Op2_exam num: 0.059725
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1625
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 373
+Op2_exam num: 0.058935
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1089
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1091
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1092
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1094
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 1095
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 531
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 523
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 524
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 516
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 517
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 511
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 464
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 465
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 455
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 450
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 451
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 441
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 442
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 431
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 432
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 421
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 422
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 423
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 424
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 426
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 428
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 435
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 436
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 437
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 438
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 439
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 440
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 454
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 448
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 443
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 444
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 445
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 446
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 447
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 461
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 453
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 452
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 456
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 462
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 466
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 468
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 469
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 471
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 472
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 473
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 489
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 474
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 475
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 476
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 477
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 478
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 479
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 480
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 481
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 482
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 483
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 484
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 485
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 486
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 487
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 490
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 491
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 492
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 497
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 493
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 494
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 495
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 498
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 499
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 505
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 500
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 501
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 502
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 503
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 506
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 507
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 508
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 509
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 510
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 512
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 513
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 530
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 518
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 519
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 520
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 521
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 528
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 525
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 526
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/youtube.py
+Line: 527
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 313
+Op2_exam num: 0.049534
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/soundcloud.py
+Line: 98
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 378
+Op2_exam num: 0.059725
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/nhl.py
+Line: 80
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 384
+Op2_exam num: 0.060752
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/ted.py
+Line: 33
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 384
+Op2_exam num: 0.060752
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/ted.py
+Line: 36
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 384
+Op2_exam num: 0.060752
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/vimeo.py
+Line: 359
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 172
+Op2_exam num: 0.027176
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/vimeo.py
+Line: 361
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 378
+Op2_exam num: 0.059725
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/vimeo.py
+Line: 363
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 378
+Op2_exam num: 0.059725
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/vimeo.py
+Line: 362
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 259
+Op2_exam num: 0.041002
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/sina.py
+Line: 42
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 390
+Op2_exam num: 0.061621
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/sina.py
+Line: 44
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 384
+Op2_exam num: 0.060752
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/steam.py
+Line: 45
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 378
+Op2_exam num: 0.059725
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/arte.py
+Line: 31
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 391
+Op2_exam num: 0.061779
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000
+___________________
+File: /mnt/c/Dataset_BugsInPy/all/youtube-dl/youtube-dl_41_buggy/youtube-dl/youtube_dl/extractor/arte.py
+Line: 29
+TOTAL_NUM_ALL: 6329
+Tarantula_rank num: 240
+Tarantula_exam num: 0.038000
+Ochiai_rank num: 240
+Ochiai_exam num: 0.038000
+Op2_rank num: 378
+Op2_exam num: 0.059725
+Barinel_rank num: 240
+Barinel_exam num: 0.038000
+Dstar_rank num: 240
+Dstar_exam num: 0.038000

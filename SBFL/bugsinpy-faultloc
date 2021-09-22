@@ -1,0 +1,220 @@
+#!/bin/bash
+
+usage="-w work_dir
+             The working directory to run the test. Default will be the current directory.
+       -t single_test
+             Run coverage from single test case by input. Default will run coverage from test cases that relevant from bugs. Format for pytest: <test_file_path>::<test_method>. Format for unittest: <test_file_path_without.py>.<test_class>.<test_method> . Use bugsinpy-info to get the information about the project.
+       -a
+             Run coverage from all test cases in the project. Default will run coverage from test cases that relevant from bugs
+       -r
+             Run coverage from test cases that relevant from bugs (Default)
+"
+
+run_all="1"
+relevant="0"
+case $1 in
+ -[h?] | --help)
+    cat <<-____HALP
+        Usage: ${0##*/} [ --help ]
+        $usage
+____HALP
+        exit 0;;
+ -a) run_all="1";;
+ -r) relevant="1";;
+esac
+
+single_test=""
+###Read the flag of checkout
+while getopts t:w: flag
+do
+    case "${flag}" in
+        w) work_dir=${OPTARG};;
+        t) single_test=${OPTARG};;
+    esac
+done
+
+###Update the work directory
+if [ "$work_dir" == "" ]; then 
+   work_dir=$(pwd)
+fi
+echo $work_dir
+cd $work_dir
+if [[ $work_dir == */ ]]; then 
+   temp_work_dir="$work_dir"
+   work_dir=${temp_work_dir::-1}
+fi
+
+if [[ ! -e "$work_dir/bugsinpy_run_test.sh" ]]; then
+   echo "This is not a checkout project folder"
+   exit
+fi
+
+if [[ ! -e "$work_dir/bugsinpy_compile_flag" ]]; then
+   echo "You have not compile this project"
+   exit
+fi
+
+if [[ "$relevant" == "1" ]]; then
+   run_all="0"
+   single_test=""
+fi
+
+# rm -f "$work_dir/fault_loc_bugsinpy.txt"
+
+###Activate environment
+source env/bin/activate
+cov_install=$(python3 -c "\
+try:
+    import coverage  
+    print('0')
+except ImportError:
+    print('1')" 2>&1)
+if [ "$cov_install" != "0" ]; then
+	pip install coverage
+fi
+
+pytest_install=$(python3 -c "\
+try:
+    import pytest  
+    print('0')
+except ImportError:
+    print('1')" 2>&1)
+if [ "$pytest_install" != "0" ]; then
+	pip install pytest
+fi
+pandas_install=$(python3 -c "\
+try:
+    import pandas  
+    print('0')
+except ImportError:
+    print('1')" 2>&1)
+if [ "$pandas_install" != "0" ]; then
+	pip install pandas
+fi
+scipy_install=$(python3 -c "\
+try:
+    import scipy  
+    print('0')
+except ImportError:
+    print('1')" 2>&1)
+if [ "$scipy_install" != "0" ]; then
+	pip install scipy
+fi
+pip install pytest-cov
+# pip install git+https://github.com/nedbat/pytest-cov.git@nedbat/contexts
+# python -m pytest test/test_utils.py::TestUtil.test_match_str -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint 
+
+pytest="0"
+#read file run_test.sh
+run_command_all=""
+DONE=false
+until $DONE ;do
+read || DONE=true
+if [ "$REPLY" != "" ]; then
+   run_command_all+="$REPLY;"
+   if [[ "$REPLY" == *"pytest"* || "$REPLY" == *"py.test"* ]]; then
+       pytest="1"
+   fi
+fi
+done < "$work_dir/bugsinpy_run_test.sh"
+IFS=';' read -r -a run_command <<< "$run_command_all"
+
+
+if [[ "$run_all" == "0" && "$single_test" == "" ]]; then
+if [[ "$pytest" == "1" ]]; then
+  run_command_filter=""
+  for index in "${!run_command[@]}"
+  do
+     run_command_trail=${run_command[index]} 
+     echo "RUN EVERY COMMAND"
+     echo "$index"
+     echo "$run_command_now"
+     echo "$test_file_now"
+     run_command_now=$(echo $run_command_trail | sed -e 's/\r//g')
+  
+     coverage=$(python -m $run_command_now -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint  2>&1)
+     echo "python -m $run_command_now -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+     echo "$coverage\n\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+  
+
+  done
+else
+  run_command_filter=""
+  for index in "${!run_command[@]}"
+  do
+     run_command_trail=${run_command[index]} 
+  
+     
+     run_command_now=$(echo $run_command_trail | sed -e 's/\r//g')
+     echo "RUN EVERY COMMAND"
+     echo "$index"
+     echo "$run_command_now"
+     if [[ "$run_command_now" == *"unittest"* ]]; then
+         searchstring="unittest "
+         temp_run=${run_command_now##*$searchstring}
+         run_command_now="$temp_run"
+     else
+         if [[ "$run_command_now" == "python -m "* ]]; then
+             searchstring="python -m "
+         else
+             searchstring="python "
+         fi 
+         echo "$searchstring"
+         temp_run=${run_command_now##*$searchstring}
+         run_command_now="$temp_run"
+     fi
+     run_command_now=${run_command_now##* }
+     temp_file_name="${run_command_now//\./\/}"
+     mystring=""
+     for i in $(echo $temp_file_name | sed "s/\// /g")
+	 do
+	    mystring="${mystring}${i}"
+	    if [[ -f "${mystring}.py" ]]; then
+	    	echo $mystring
+	    	temp_now_my=${temp_file_name##*$mystring}
+	    	temp_test_now="$(echo $temp_now_my | sed "s/\//::/g")"
+            run_command_now="${mystring}.py${temp_test_now}"
+        fi
+	    mystring="${mystring}/"
+	 done
+     # echo "$run_command_now"
+     # echo "python -m $run_command_now -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint"
+     python -m pytest $run_command_now -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint
+     coverage=$(python -m pytest $run_command_now -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint  2>&1)
+     echo "python -m pytest $run_command_now -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+     echo "$coverage\n\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+
+   done
+fi
+
+elif [[ "$run_all" == "1" ]]; then
+  if [[ "$pytest" == "1" ]]; then
+     coverage=$(python -m pytest -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint 2>&1)
+     echo "python -m pytest -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+     echo "$coverage\n\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+
+
+  else
+
+     coverage=$(python -m pytest -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint 2>&1)
+     echo "python -m pytest -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+     echo "$coverage\n\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+
+  fi
+
+elif [ "$single_test" != "" ]; then
+  if [[ "$pytest" == "1" ]]; then
+     coverage=$(python -m pytest $single_test -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint 2>&1)
+     echo "python -m pytest $single_test -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint\n" &>>"$work_dir/fault_loc_bugsinpy${index}.txt"
+     echo "$coverage\n\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+
+  else
+     coverage=$(python -m pytest $single_test -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint 2>&1)
+     echo "python -m pytest $single_test -p pytest_pinpoint --cov=. --cov-context=test --cov-branch --pinpoint\n" &>>"$work_dir/fault_loc_bugsinpy${index}.txt"
+     echo "$coverage\n\n" &>>"$work_dir/fault_loc_bugsinpy.txt"
+
+  fi
+fi
+echo $coverage
+###Deactivate the environment
+deactivate
