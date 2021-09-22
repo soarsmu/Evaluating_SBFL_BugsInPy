@@ -1,3 +1,0 @@
-youtube-dl 43
-httpie 5
-black 23
