@@ -40,23 +40,20 @@ for line in lines:
 current_directory = os.getcwd()
 os.chdir("..")
 parent_directory = os.getcwd()
-os.chdir("../Analysis")
+os.chdir("Analysis")
 
 sbfl_res = dict()
 for p in modified:
     #if p == "pandas":
-        print("MASUKKK")
         sbfl_res_p = dict()
         for n in modified[p]:
             #if n == "42":
-                print("TESSSSST")
                 not_continue = False
                 totalpassed_num = 0
                 totalfailed_num = 0
                 file_fault = parent_directory+"/Results/"+p+"/"+p+"_"+n+"_buggy-fault_localization.txt"
                 if not Path(file_fault).is_file():
                     not_continue = True
-                    print("TEST")
                 if not not_continue:
                     print(file_fault)
                     text_file = open(file_fault, "r")
@@ -447,8 +444,9 @@ while i < len(data):
     temp_flt = {k: v for k, v in sorted(sort_flt.items(), key=lambda item: item[1])}
     m = 1
     add_to_array = [0,0,0,0,0]
+    rank_save = dict()
     prev_temp = -10
-    print(temp_flt)
+    # print(temp_flt)
     for key, value in temp_flt.items():
         if prev_temp == -10:
             prev_temp = value
@@ -457,15 +455,36 @@ while i < len(data):
                 m += 1
             prev_temp = value
         add_to_array[key] = m
+        if m in rank_save:
+            rank_save[m] += 1
+        else:
+            rank_save[m] = 1
         # m += 1
-    temp_array.extend(add_to_array)
+    #update the rank. Example: the rank before (1,1,1,1,1) -> after (2.5,2.5,2.5,2.5,2.5),    
+    update_rank = dict()
+    curr_rank = 0
+    for rank_idx in [1,2,3,4,5]:
+        if rank_idx in rank_save:
+            if rank_save[rank_idx] > 1:
+                update_rank[rank_idx] = curr_rank + (rank_save[rank_idx]/2)
+                curr_rank += rank_save[rank_idx]
+            else:
+                curr_rank += 1
+                update_rank[rank_idx] = curr_rank
+    add_to_array_updated = []
+    for add_arr_val in add_to_array:
+        add_to_array_updated.append(update_rank[add_arr_val])
+
+
+    temp_array.extend(add_to_array_updated)
 
     sort_flt = {0: temp_tarantula[-1], 1: temp_ochiai[-1], 2: temp_op2[-1], 3: temp_barinel[-1], 4: temp_dstar[-1]}
     temp_flt = {k: v for k, v in sorted(sort_flt.items(), key=lambda item: item[1])}
     m = 1
     add_to_array = [0,0,0,0,0]
+    rank_save = dict()
     prev_temp = -10
-    print(temp_flt)
+    # print(temp_flt)
     for key, value in temp_flt.items():
         if prev_temp == -10:
             prev_temp = value
@@ -474,14 +493,33 @@ while i < len(data):
                 m += 1
             prev_temp = value
         add_to_array[key] = m
-        # m += 1
-    temp_array.extend(add_to_array)
+        if m in rank_save:
+            rank_save[m] += 1
+        else:
+            rank_save[m] = 1
+    
+    update_rank = dict()
+    curr_rank = 0
+    for rank_idx in [1,2,3,4,5]:
+        if rank_idx in rank_save:
+            if rank_save[rank_idx] > 1:
+                update_rank[rank_idx] = curr_rank + (rank_save[rank_idx]/2)
+                curr_rank += rank_save[rank_idx]
+            else:
+                curr_rank += 1
+                update_rank[rank_idx] = curr_rank
+    add_to_array_updated = []
+    for add_arr_val in add_to_array:
+        add_to_array_updated.append(update_rank[add_arr_val])
+
+    temp_array.extend(add_to_array_updated)
+
     sort_flt = {0: temp_tarantula[int(len(temp_tarantula_rank)/2)], 1: temp_ochiai[int(len(temp_ochiai_rank)/2)], 2: temp_op2[int(len(temp_op2_rank)/2)], 3: temp_barinel[int(len(temp_barinel_rank)/2)], 4: temp_dstar[int(len(temp_dstar_rank)/2)]}
     temp_flt = {k: v for k, v in sorted(sort_flt.items(), key=lambda item: item[1])}
     m = 1
     add_to_array = [0,0,0,0,0]
+    rank_save = dict()
     prev_temp = -10
-    print(temp_flt)
     for key, value in temp_flt.items():
         if prev_temp == -10:
             prev_temp = value
@@ -490,8 +528,26 @@ while i < len(data):
                 m += 1
             prev_temp = value
         add_to_array[key] = m
-        # m += 1
-    temp_array.extend(add_to_array)
+        if m in rank_save:
+            rank_save[m] += 1
+        else:
+            rank_save[m] = 1
+    
+    update_rank = dict()
+    curr_rank = 0
+    for rank_idx in [1,2,3,4,5]:
+        if rank_idx in rank_save:
+            if rank_save[rank_idx] > 1:
+                update_rank[rank_idx] = curr_rank + (rank_save[rank_idx]/2)
+                curr_rank += rank_save[rank_idx]
+            else:
+                curr_rank += 1
+                update_rank[rank_idx] = curr_rank
+    add_to_array_updated = []
+    for add_arr_val in add_to_array:
+        add_to_array_updated.append(update_rank[add_arr_val])
+
+    temp_array.extend(add_to_array_updated)
     
     tarantula += temp_tarantula[0]
     ochiai += temp_ochiai[0]
